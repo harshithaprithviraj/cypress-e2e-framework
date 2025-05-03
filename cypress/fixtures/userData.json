@@ -1,0 +1,24 @@
+{
+    "name": "Harshitha QA",
+    "email": "harshitha.qa@example.com",
+    "password": "Password@123",
+    "title": "Mrs", 
+    "dob": {
+      "day": "10",
+      "month": "May",
+      "year": "1995"
+    },
+    "newsletter": true,
+    "offers": true,
+    "firstName": "Harshitha",
+    "lastName": "QA",
+    "company": "TechCompany",
+    "address1": "123 Test Street",
+    "address2": "Apt 456",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zipcode": "560001",
+    "mobileNumber": "9876543210"
+  }
+  
