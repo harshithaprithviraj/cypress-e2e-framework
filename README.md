@@ -8,8 +8,7 @@ This repository contains a Cypress-based End-to-End (E2E) testing framework to a
 - [Configuration](#configuration)
 - [Running the Tests](#running-the-tests)
 - [Folder Structure](#folder-structure)
-
-- 
+ 
 ## Introduction
 
 The **Cypress E2E Framework** provides automated end-to-end tests for web application. The framework uses Cypress for testing various user interactions such as:
@@ -18,8 +17,8 @@ The **Cypress E2E Framework** provides automated end-to-end tests for web applic
 - Signing up for an account
 - Submitting a contact form
 - Deleting accounts
-
 The goal is to ensure that key application features are working correctly and efficiently by running automated tests.
+
 ## Installation
 
 To get started with the Cypress E2E Framework, follow the steps below:
@@ -27,18 +26,17 @@ To get started with the Cypress E2E Framework, follow the steps below:
 ### 1. Clone the Repository
 
 Clone the repository to your local machine using the following command:
-
 ```bash
 git clone git@github.com:harshithaprithviraj/cypress-e2e-framework.git
 
-## Running the Tests
-
-### 1. Open Cypress Test Runner (Interactive Mode)
-
+**## Running the Tests**
+Open Cypress Test Runner (Interactive Mode)
 To run the tests interactively, open the Cypress Test Runner by running:
-
 ```bash
 npx cypress open
+
+
+**## Folder Structure**
 cypress/
 ├── e2e/ # End-to-end test files
 │ ├── addToCartTest.cy.js # Test file for adding products to the cart
